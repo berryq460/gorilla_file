@@ -1,3 +1,4 @@
+//GIVEN DATA
 const receipts = [
 	{
 		person: "Steve",

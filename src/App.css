@@ -1,16 +1,9 @@
+/* This CSS file applies to the WHole app*/
 .App {
   text-align: center;
 }
 
-.App {
-	text-align: center;
-}
 .App-container {
-	background-image: url("https://https://www.pexels.com/photo/aerial-shot-of-stalls-2622170/");
+	background-image: url("market.jpg");
 	background-size: cover;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
